@@ -6,9 +6,6 @@
 
 # 基本設定
 #
-## yumを最新に
-sudo yum -y update
-
 ## timezone設定
 sudo unalias cp
 sudo cp -f -p /usr/share/zoneinfo/Japan /etc/localtime
